@@ -1,2 +1,1 @@
-# dev-minjee.github.io
-github.io
+https://dev-minjee.github.io
